@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
     <head>
-        <title>php alused</title>
+        <title>php alused-väljund</title>
     </head>
     <body>
     <h4>Väljastus</h4>
@@ -13,7 +13,7 @@
 //  teksti väljastu echo käsuga
 
 echo 'See tekst on HTML sees<br>';
-aa
+
 ?>
     </body>
 </html>
