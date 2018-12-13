@@ -6,7 +6,7 @@
  * Time: 14:49
  */
 //teksti väljastus print käsuga
-print 'See on esimene lause php keeles</br>';
-print 'See on teine lause php keeles';
+print 'See on esimene lause php keeles<br>';
+print 'See on teine lause php keeles<br>';
 ?>
 
