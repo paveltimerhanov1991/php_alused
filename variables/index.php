@@ -17,3 +17,14 @@ echo 'Tõeväärsus = ' .$toevaartusTrue. '<br>';
 echo gettype($sone). '<br>';
 settype($sone, 'int');
 echo gettype($sone).'<br>';
+
+$arv1 = 7;
+$arv2 = 24;
+
+echo $arv1. ' + ' .$arv2. ' = ' .($arv1 + $arv2).'<br>';
+echo $arv1. ' - ' .$arv2. ' = ' .($arv1 - $arv2).'<br>';
+echo $arv1. ' * ' .$arv2. ' = ' .($arv1 * $arv2).'<br>';
+echo $arv1. ' / ' .$arv2. ' = ' .($arv1 / $arv2).'<br>';
+echo $arv1. ' % ' .$arv2. ' = ' .($arv1 % $arv2).'<br>';
+
+
